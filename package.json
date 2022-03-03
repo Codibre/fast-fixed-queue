@@ -1,8 +1,7 @@
 {
-  "name": "boilerplate-base",
+  "name": "fixed-queue",
   "description": "This project is just a template for creation of new projects",
   "version": "0.0.0",
-  "private": true,
   "author": {
     "name": "Thiago O Santos <tos.oliveira@gmail.com>"
   },
@@ -62,11 +61,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codibre/boilerplate-base.git"
+    "url": "https://github.com/codibre/fixed-queue.git"
   },
-  "homepage": "https://github.com/codibre/boilerplate-base#readme",
+  "homepage": "https://github.com/codibre/fixed-queue#readme",
   "bugs": {
-    "url": "https://github.com/codibre/boilerplate-base/issues"
+    "url": "https://github.com/codibre/fixed-queue/issues"
   },
   "keywords": [],
   "license": "MIT",

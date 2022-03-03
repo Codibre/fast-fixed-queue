@@ -65,7 +65,7 @@ module.exports = {
     'max-classes-per-file': ['off', 1],
     'max-lines': ['off', 300],
     'new-parens': 'error',
-    'no-bitwise': 'error',
+    'no-bitwise': 'off',
     'no-caller': 'error',
     'no-cond-assign': 'error',
     'no-console': 'off',
