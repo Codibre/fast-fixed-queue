@@ -45,7 +45,11 @@ while (!queue.isEmpty()) {
 
 ## Is it worth it to use it?
 
-Well, mostly yes. According to our tests, it starts to worth to use for queues with more than around 408 items enqueued, otherwise stick with an array.
+We compared the performance of this package against [@iter-tools/queue](https://github.com/iter-tools/queue) and native array, and the conclusions are:
+
+* For queues with less than 6 items, array is faster;
+* For queues with 7 to aproximately 450 items, @iter-tools/queue is faster;
+* For queues with aproximately more than 450 items, fast-fixed-queue is slightly faster, but the difference between both packages from there isn't really significant, so @iter-tools/queue is the better option for the vast majority of cases between the ones analysed;
 
 ## License
 

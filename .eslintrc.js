@@ -5,7 +5,7 @@ module.exports = {
     node: true,
   },
   overrides: [{
-    files: ['test/*.ts', 'test/**/*.ts'],
+    files: ['test/*.ts', 'test/**/*.ts', 'benchmark/*.ts'],
     rules: {
       'no-magic-numbers': 'off',
       '@typescript-eslint/no-unused-expressions': 'off',
