@@ -45,7 +45,7 @@ while (!queue.isEmpty()) {
 
 ## Is it worth it to use it?
 
-Well, mostly yes. According to our tests, it starts to worth to use for queues that get around 40 items enqueued, otherwise stick with an array.
+Well, mostly yes. According to our tests, it starts to worth to use for queues with more than around 408 items enqueued, otherwise stick with an array.
 
 ## License
 
