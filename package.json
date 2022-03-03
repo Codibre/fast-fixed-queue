@@ -1,5 +1,5 @@
 {
-  "name": "fixed-queue",
+  "name": "fast-fixed-queue",
   "description": "This project is just a template for creation of new projects",
   "version": "1.0.0",
   "author": {
@@ -61,11 +61,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codibre/fixed-queue.git"
+    "url": "https://github.com/codibre/fast-fixed-queue.git"
   },
-  "homepage": "https://github.com/codibre/fixed-queue#readme",
+  "homepage": "https://github.com/codibre/fast-fixed-queue#readme",
   "bugs": {
-    "url": "https://github.com/codibre/fixed-queue/issues"
+    "url": "https://github.com/codibre/fast-fixed-queue/issues"
   },
   "keywords": [],
   "license": "MIT",

@@ -78,7 +78,7 @@ class FixedCircularBuffer {
 	}
 }
 
-export class FixedQueue<T> {
+export class FastFixedQueue<T> {
 	private head = new FixedCircularBuffer();
 	private tail = this.head;
 
