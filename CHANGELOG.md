@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/codibre/fast-fixed-queue/compare/v1.0.0...v1.0.1) (2022-03-03)
+
+
+### Bug Fixes
+
+* renaming package due to another one with very similar name ([037d77a](https://github.com/codibre/fast-fixed-queue/commit/037d77ada17385571d490e390a3367d616a70f5d))
+
 # 1.0.0 (2022-03-03)
 
 
