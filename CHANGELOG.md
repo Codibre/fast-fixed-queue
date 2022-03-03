@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/codibre/fast-fixed-queue/compare/v1.0.1...v1.0.2) (2022-03-03)
+
+
+### Bug Fixes
+
+* writing benchmark against array ([ea0a7b5](https://github.com/codibre/fast-fixed-queue/commit/ea0a7b50ebc3f660f7ceeb18c92fe2465c8821a7))
+* writing readme ([e1fb846](https://github.com/codibre/fast-fixed-queue/commit/e1fb846f2d890ab58284675109bd070b46975cf0))
+
 ## [1.0.1](https://github.com/codibre/fast-fixed-queue/compare/v1.0.0...v1.0.1) (2022-03-03)
 
 
