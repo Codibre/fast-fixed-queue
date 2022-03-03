@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/codibre/fast-fixed-queue/compare/v1.1.0...v1.2.0) (2022-03-03)
+
+
+### Features
+
+* updating benchmark and deprecating package ([40d79c2](https://github.com/codibre/fast-fixed-queue/commit/40d79c291ecc7df88a235eac1854d8e4ba78f7d9))
+
 # [1.1.0](https://github.com/codibre/fast-fixed-queue/compare/v1.0.1...v1.1.0) (2022-03-03)
 
 
