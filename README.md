@@ -51,6 +51,7 @@ We compared the performance of this package against [@iter-tools/queue](https://
 * For queues with 7 to aproximately 450 items, @iter-tools/queue is faster;
 * For queues with aproximately more than 450 items, fast-fixed-queue is slightly faster, but the difference between both packages from there isn't really significant, so @iter-tools/queue is the better option for the vast majority of cases between the ones analysed;
 
+
 ## License
 
 Licensed under [MIT](https://en.wikipedia.org/wiki/MIT_License).
