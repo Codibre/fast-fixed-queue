@@ -43,6 +43,10 @@ while (!queue.isEmpty()) {
 }
 ```
 
+## Is it worth it to use it?
+
+Well, mostly yes. According to our tests, it starts to worth to use for queues that get around 40 items enqueued, otherwise stick with an array.
+
 ## License
 
 Licensed under [MIT](https://en.wikipedia.org/wiki/MIT_License).
